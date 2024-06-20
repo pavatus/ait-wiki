@@ -59,7 +59,7 @@ params:
     type: giscus
 
     giscus:
-      repo: <repository>
-      repoId: <repository ID>
-      category: <category>
-      categoryId: <category ID>
+      repo: DrTheodor/ait-wiki
+      repoId: R_kgDOML5FAA
+      category: General
+      categoryId: DIC_kwDOML5FAM4CgOE1
