@@ -1,5 +1,5 @@
 # Hugo configuration file
-title: My Site
+title: AIT Wiki
 baseURL: https://loqor.dev/ait/
 
 # import hextra as module
