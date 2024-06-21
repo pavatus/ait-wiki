@@ -63,6 +63,8 @@ The **Land Type Control** sets the TARDIS to try and land on the **surface** whi
 
 The **Randomiser Control** does exactly what is says on the tin. This control randomises the destination coordinates depending on how high the **increment control** is set.
 
+![Default Console](images/console/console.png)
+
 {{< callout type="info" >}}
   Controls can be hit by mobs, explosions and projectiles.
 {{< /callout >}}
