@@ -3,11 +3,11 @@ title: Console
 type: docs
 ---
 
-## What is a TARDIS Console?
+![Image of Console Generator](images/console.png)
 
 The TARDIS console is the main control unit of the TARDIS, which can be interacted with by a player or another entity. The TARDIS should always be piloted by 6 fully-trained TARDIS pilots as to allow for a smooth journey.
 
-Out-of-universe, the console is a collection of [**Control Entities**]({{ site.baseurl }}{% post_url 2024-01-26-control-entities %}) which are located around the console block that do different functions.
+Out-of-universe, the console is a collection of **Control Entities** which are located around the console block that do different functions.
 
 ## How do I create a console?
 ![Image of Console Generator](images/console/generator.png)
@@ -23,11 +23,11 @@ Place the Console Generator in the TARDIS interior to select any of the unlocked
 To use the Console Generator, follow this easy guide:
 1. Right-click on the Console Generator to change the **type** of console.
 2. Right-click *while crouching* on the Console Generator to change the **variant**.
-3. Confirm the console by using a linked [**Sonic Screwdriver**]({{ site.baseurl }}{% post_url 2024-03-09-sonic %}).
+3. Confirm the console by using a linked [**Sonic Screwdriver**](../../items/sonic).
 
 
 ## How do I use a TARDIS Console?
-If you're having a hard time finding the controls, you can use a [**Sonic Screwdriver**]({{ site.baseurl }}{% post_url 2024-03-09-sonic %}). Alternatively, you're able to turn on debugging mode for viewing entity **hitboxes**, using F3+B which will toggle the debug **hitbox** mode.
+If you're having a hard time finding the controls, you can use the [**Scanning Mode**](../../items/sonic#scanning-mode) of a [**Sonic Screwdriver**](../../items/sonic). Alternatively, you're able to turn on debugging mode for viewing entity **hitboxes**, using F3+B which will toggle the debug **hitbox** mode.
 
 Right or left click on any of the controls to activate them. Certain controls - like the **throttle** - need you to crouch to increment them fully up or fully down but will do normal increments while freestanding.
 
@@ -62,3 +62,7 @@ The **Refuel Control** requires the handbrake to be engaged. The refuel control 
 The **Land Type Control** sets the TARDIS to try and land on the **surface** while enabled or land at the specific **destination coordinates** while disabled.
 
 The **Randomiser Control** does exactly what is says on the tin. This control randomises the destination coordinates depending on how high the **increment control** is set.
+
+{{< callout type="info" >}}
+  Controls can be hit by mobs, explosions and projectiles.
+{{< /callout >}}

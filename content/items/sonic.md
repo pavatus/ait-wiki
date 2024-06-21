@@ -29,14 +29,19 @@ The sonic has 5 modes, those being:
 - Scanning
 - TARDIS
 
-**Inactive (Powered off)** mode renders the Sonic Screwdriver unusable, this will be used as a form of power saving mode for the Sonic Screwdriver.
+#### Inactive Mode
+**Inactive** mode renders the Sonic Screwdriver unusable, this will be used as a form of power saving mode for the Sonic Screwdriver.
 
+#### Interaction Mode
 **Interaction** mode allows the Sonic Screwdriver to ignite candles, campfires and unlit torches.
 
+#### Overload Mode
 **Overload** mode allows the Sonic Screwdriver to ignite TNT and toggle redstone lamps!
 
-**Scanning** mode allows the Sonic Screwdriver to tell you what console controls are by hovering over the [**Control Entities**]({{ site.baseurl }}{% post_url 2024-01-26-control-entities %}) and will show you the controls hitboxes. It will also confirm if you are located inside a [**Rift Chunk**](../../mechanics/rift-chunks) and how much [**Artron Energy**](../../mechanics/artron) is stored in that chunk.
+#### Scanning Mode
+**Scanning** mode allows the Sonic Screwdriver to tell you what console controls are by hovering over the [**Control Entities**](../../blocks/console#how-do-i-use-a-tardis-console) and will show you the controls hitboxes. It will also confirm if you are located inside a [**Rift Chunk**](../../mechanics/rift-chunks) and how much [**Artron Energy**](../../mechanics/artron) is stored in that chunk.
 
+#### TARDIS Mode
 **TARDIS** mode allows the Sonic Screwdriver to set the destination of the TARDIS wherever you right-click, as long as it's available to land, and deactivates the handbrake.
 If you are within 256 blocks of the TARDIS exterior, the TARDIS will be summoned to the location of choice.
 
@@ -44,7 +49,6 @@ If you are within 256 blocks of the TARDIS exterior, the TARDIS will be summoned
 By default, you receive the "Prime" when crafting it or by getting it from the creative menu but there is a way to modify the Sonic Screwdriver casing, check it's power, see what TARDIS it's linked to and what casing it has.
 
 ![Sonic Settings Menu](images/sonic/settings.png)
-
 
 To change the sonic casing, right-click on the **Sonic Port** whilst holding the Sonic Screwdriver, then when it's in, go to the [**Monitor**](../../blocks/monitor) and click on **Settings** and click onto **Sonic Settings** now you will be able to view the Sonic Screwdriver's data but also the buttons for switching TARDIS Interiors & Exteriors. 
 
@@ -64,7 +68,9 @@ Once the repair has finished the Sonic Screwdriver should pop out of the **TARDI
 ![TARDIS Repairing with Sonic Screwdriver](images/sonic/repairing.png)
 
 ## Other Info
-If you don't know what block can be interacted with a Sonic Screwdriver, make sure you have the Sonic Screwdriver in you hand and if you face a block (that can be interacted with a sonic then the crosshair should look a bit like the Sonic Screwdriver) but this would apply to all of the modes so some would need to be interacted in the **Interaction** Mode or the **Overdrive** Mode the **TARDIS** Mode applys to all of the block as there is where you are summoning the TARDIS from
+If you don't know what block can be interacted with a Sonic Screwdriver, make sure you have the Sonic Screwdriver in your hand and if you face a block (that can be interacted with a sonic then the crosshair should look a bit like the Sonic Screwdriver).
+
+Some blocks would need to be interacted in the **Interaction** Mode or the **Overdrive** Mode.
 
 ![Sonic Screwdriver Crosshair](images/sonic/crosshair.png)
 
