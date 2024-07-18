@@ -25,12 +25,15 @@ menu:
     - name: Modrinth
       url: "https://modrinth.com/mod/ait"
       weight: 2
-    - name: Search
+    - name: Curseforge
+      url: "https://www.curseforge.com/minecraft/mc-mods/adventures-in-time"
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     - name: GitHub
-      weight: 4
+      weight: 5
       url: "https://github.com/Loqor/ait"
       params:
         icon: github
