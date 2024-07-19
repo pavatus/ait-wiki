@@ -3,6 +3,10 @@ title: Custom Exteriors
 type: docs
 ---
 
+{{< callout type="warning" >}}
+  You need to learn how texture pack and datapacks works before trying this.
+{{< /callout >}}
+
 ## Exterior Texture
 - Make an exterior texture for any of the exteriors that exist in the mod. You may use any of the variants as a base, but remember whatever you borrow as a base cannot be claimed as your own, used in any other media (without permission from Loqor), or distributed.
 - Save this exterior texture to your datapack that is called by your own custom datapack namespace (see below), naming it whatever you like. but do remember to call it something you can remember, with **.png** as the image's format.

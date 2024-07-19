@@ -3,6 +3,10 @@ title: Custom Interiors
 type: docs
 ---
 
+{{< callout type="warning" >}}
+  You need to learn how texture pack and datapacks works before trying this.
+{{< /callout >}}
+
 ## Preview Photo
 - Using whatever arts and crafts image editor you like (I recommend **paint.net** or **Gimp**), create a photo for your desktop in a *SQUARE* format.
 
