@@ -66,5 +66,5 @@ The **Randomiser Control** does exactly what is says on the tin. This control ra
 ![Default Console](images/console/console.png)
 
 {{< callout type="info" >}}
-  Controls can be hit by mobs, explosions and projectiles.
+  Controls can be hit by mobs, explosions and projectiles, It can also emit redstone.
 {{< /callout >}}

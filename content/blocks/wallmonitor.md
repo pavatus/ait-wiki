@@ -1,17 +1,17 @@
 ---
-title: Monitor
+title: Wall Monitor
 type: docs
 ---
 
-![Monitor](images/monitor.png)
+![Monitor](images/wall_monitor.png)
 
-The **Monitor** is your way to change settings, customise your TARDIS and viewing TARDIS info. 
-The TARDIS monitor is included with the [**TARDIS Console**](../console) but you can craft it as a block and can use it anywhere in your interior then just your [**Console**](../console).
+The **Wall Monitor** is another way to change settings, customise your TARDIS and viewing TARDIS info... BUT ON YOUR WALL and giving you those groovy classic vibes!
+The TARDIS Menu is included with the [**TARDIS Console**](../console) and the [Monitor](../monitor) but you can craft it as a block and can use it on your wall in your interior then just your [**Console**](../console) or [Monitor](../monitor).
 
 ![Monitor Menu](images/monitor/screen.png)
 
 ## Recipe
-![crafting-grid](images/monitor/recipe.png)
+![crafting-grid](images/monitor/wallmonitor_recipe.png)
 
 ## Customizing your TARDIS
 In the monitor you can customise your TARDIS like the Exterior, Interior and the Hum. For how to change it is said in [**Customizing your TARDIS**](../../mechanics/customizing) page.
