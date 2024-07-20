@@ -4,7 +4,7 @@ type: docs
 ---
 
 {{< callout type="warning" >}}
-  You need to learn how texture pack and datapacks works before trying this.
+  You need to learn how texture pack and datapacks works!
 {{< /callout >}}
 
 ## Console Texture
