@@ -13,16 +13,16 @@ When you put the Hammer in your main hand:
 
 ## Enchantibility
 The Hammer can be enchanted with:
-- Sharpness
-- Smite
-- Bane of Arthropods
-- Knockback
-- Fire Aspect
-- Looting
-- Sweeping Edge
-- Unbreaking
-- Mending
-- Curse of Vanishing
+- [Sharpness](https://minecraft.wiki/wiki/Sharpness)
+- [Smite](https://minecraft.wiki/wiki/Smite)
+- [Bane of Arthropods](https://minecraft.wiki/wiki/Bane_of_Arthropods)
+- [Knockback](https://minecraft.wiki/wiki/Knockback)
+- [Fire Aspect](https://minecraft.wiki/wiki/Fire_Aspect)
+- [Looting](https://minecraft.wiki/wiki/Looting)
+- [Sweeping Edge](https://minecraft.wiki/wiki/Sweeping_Edge)
+- [Unbreaking](https://minecraft.wiki/wiki/Unbreaking)
+- [Mending](https://minecraft.wiki/wiki/Mending)
+- [Curse of Vanishing](https://minecraft.wiki/wiki/Curse_of_Vanishing)
 
 
 ## Functionality

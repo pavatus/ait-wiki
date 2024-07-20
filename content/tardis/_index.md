@@ -4,5 +4,7 @@ type: docs
 ---
 
 {{< cards >}}
-  {{< card link="linkingitemsn" title="Linking Items to your TARDIS" image="images/sonic/in_port.png" subtitle="The Sonic Screwdriver is a handheld device used for various tasks,  and is the most important tool for a TARDIS user." >}}
+  {{< card link="linkingitems" title="Linking Items to your TARDIS" image="../../items/images/sonic/in_port.png" subtitle="Even a TARDIS needs car keys! And a way to connect them..." >}}
+  {{< card link="protocals" title="TARDIS Protocals" image="../../items/images/sonic/in_port.png" subtitle="TARDIS Protocals" >}}
+  {{< card link="security" title="TARDIS Securitys" image="images/security/security.png" subtitle="The TARDIS have Security Options that work to keep your self safe." >}}
 {{< /cards >}}

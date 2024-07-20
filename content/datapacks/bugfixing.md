@@ -17,7 +17,7 @@ Once in a while if you don't see your TARDIS in the [TARDIS Monitor](../../block
 
 1. In chat run the command ```/datapack list available```
 
-You should get this responce:
+If you have this problem you may get this responce:
 ![/datapack list available responce](images/bugfixing/listcommandresponse.png)
 
 If you see your datapack this might be your problem and continue otherwise if you don't see this then move onto the next mistake people might make.
