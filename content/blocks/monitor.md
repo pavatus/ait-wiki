@@ -3,7 +3,7 @@ title: Monitor
 type: docs
 ---
 
-![Monitor](images/monitor.jpg)
+![Monitor](images/monitor.png)
 
 The **Monitor** is your way to change settings, customise your TARDIS and viewing TARDIS info. 
 The TARDIS monitor is included with the [**TARDIS Console**](../console) but you can craft it as a block and can use it anywhere in your interior then just your [**Console**](../console).

@@ -18,8 +18,8 @@ AIT can be [found on Modrinth](https://modrinth.com/mod/ait)
 AIT can also be [found on Curseforge](https://www.curseforge.com/minecraft/mc-mods/adventures-in-time)
 
 and if you want here's the Discord for [AIT](https://discord.gg/D5Et6Ux7BS)
----
 
+If you are new to the mod you'll probably want to know how to start here are some pages you might want to look at:
 {{< cards >}}
   {{< card link="obtainingtardis" title="Obtaining your TARDIS" image="images/new_tardis_interiors.png" subtitle="Your TARDIS is your one way to travel in space and time, so you are gonna need one." >}}
   {{< card link="items/sonic" title="Sonic Screwdriver" image="items/images/sonic/in_port.png" subtitle="The Sonic Screwdriver is a handheld device used for various tasks,  and is the most important tool for a TARDIS user." >}}

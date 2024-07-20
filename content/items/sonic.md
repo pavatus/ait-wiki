@@ -8,7 +8,7 @@ type: docs
 The Sonic Screwdriver is a handheld device used for various tasks, these tasks range from seeing what parts of the console are linked to what controls to blowing up TNT.
 
 To **link** a Sonic Screwdriver to a [**TARDIS Console**](../../blocks/console) right-click on the **Sonic Port** whilst holding the Sonic Screwdriver. It should of now have gone into the **Sonic Port** and have linked to the **TARDIS**, to remove it punch the Sonic Screwdriver in the **Sonic Port**, and it will eject from the [**Console**](../../blocks/console).
-![Sonic in Sonic Port](https://github.com/Loqor/ait/assets/152225935/3d84fecb-d1e2-4afc-af3b-e77b5e2ee2dc)
+![Sonic in Sonic Port](images/sonic/in_port.png)
 
 To **charge** a Sonic Screwdriver to a [**TARDIS Console**](../../blocks/console) right-click on the **Sonic Port** whilst holding the Sonic Screwdriver. Like you would for linking it then the Sonic Screwdriver should start charging (keep in mind the Sonic Screwdriver uses the [**Artron Energy**](../../mechanics/artron) to charge). 
 

@@ -3,7 +3,7 @@ title: Hammer
 type: docs
 ---
 
-The Hammer can be used for speeding the TARDIS up when your in flight while also being a great item for bonking people (:<.
+The Hammer can be used for speeding the TARDIS up when your in flight while also being a great item for bonking people (:<
 
 ## Stats
 When you put the Hammer in your main hand:
@@ -30,7 +30,7 @@ When you're in the vortex and want to speed up your journey hit the [TARDIS Cons
 
 ## Crafting Recipe
 
-![Hammer Crafting Recipie](images/sonic/mechanical.png)
+![Hammer Crafting Recipie](images/hammer/recipe.png)
 
 
 
