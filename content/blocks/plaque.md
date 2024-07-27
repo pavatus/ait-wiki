@@ -10,4 +10,4 @@ It display's information such as TARDIS name and the date it was created from th
 
 # Recipe
 
-![Plaque Recipie](image/plaque/recipe.png)
+![Plaque Recipe](image/plaque/recipe.png)

@@ -3,13 +3,13 @@ title: Interior Detector Block
 type: docs
 ---
 
-[The Detector Block](images/detector_block.png)
+![The Detector Block](images/detector_block.png)
 
 The Detector Block is used for emiting redstone once it meets a specific condition it's been set to and it can only work if it is in The TARDIS.
 
 ## How to craft The Detector Block
 
-[The Detector Block Recipe](images/detector/recipe.png)
+![The Detector Block Recipe](images/detector/recipe.png)
 
 ## How to use The Detector Block
 
