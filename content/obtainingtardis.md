@@ -29,4 +29,6 @@ To restore a TARDIS please follow these steps:
 
 3. Vacate the interior and wait for your TARDIS to rematerialise.
 
-4. Enjoy your working TARDIS!
+4. Craft a **Engine Core** and place it in the middle of a 3 x 3 water space
+
+5. Enjoy your working TARDIS!
