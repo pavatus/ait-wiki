@@ -26,4 +26,6 @@ If you see your datapack this might be your problem and continue otherwise if yo
 
 After this your datapack should now work if it still doesn't work try to reload your world.
 
-## Dog going after your mail man
+## Not Reloading Datapack
+
+When you make changes to your datapack
