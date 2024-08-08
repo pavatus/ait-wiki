@@ -18,12 +18,16 @@ type: docs
 
 * Artron drain detected!
 1. Refueler
+   
 * Directional error!
 1. Direction
+   
 * Increment scale error! Recalculation necessary!
 1. Increment
+   
 * Gravity miscalculation!
 1. Antigravs
+   
 * Ship computer offline!
 1. P116
 
@@ -33,19 +37,26 @@ type: docs
   1. Dimension
   2. X
 * Drifting off course Y!
-Dimension - Y
+1. Dimension
+2. Y
 * Drifting off course Z!
-Dimension - Z
+1. Dimension
+2. Z
 * Debris incoming!
-Direction - Randomizer
+1. Direction
+2. Randomizer
 * Vortex drift: acceleration necessarry!
-Increment - Throttle
+1. Increment
+2. Throttle
 * Immediate cloaking necessarry!
-Protocol 3 - Randomizer
+1. Protocol 3
+2. Randomizer
 * DIMENSION BREACH: SECURE DOORS
-Dimension - Door Control
+1. Dimension
+2. Door Control
 * Small debries field!
-Increment - Shields
+1. Increment
+2.  Shields
 
 3 BUTTON EVENTS
 
@@ -53,10 +64,16 @@ Increment - Shields
 1. Land Type
 2. Y
 3. Set Waypoint
+
 * TARDIS off course!
-Handbrake - Throttle - Randomizer
+1. Handbrake
+2. Throttle
+3. Randomizer
+
 * Power drain imminent!
-Power - Refueler - Randomizer
+1. Power
+2. Refueler
+3. Randomizer
 
 ## I have dementia what do i do?
 
