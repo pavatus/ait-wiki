@@ -3,15 +3,15 @@ title: Waypoint Bank
 type: docs
 ---
 
-![Waypoint Bank](waypoint_bank.png)
+![Waypoint Bank](images/waypoint_bank/waypoint_bank.png)
 
 The waypoint bank is a easy way to store your waypoints and easly apply them remotly from bassicly anywhere aslong as its in the interior!
 
-## Recepie
+## Recipe
 
-![Waypoint bank recepie](waypoint_bank_recepie.png)
+![Waypoint Bank Recipe](images/waypoint_bank/waypoint_bank_recipe.png)
 
-## How do i use the waypoint bank?
+## How do I use the Waypoint Bank?
 
 Get your waypoint cartridge and then simply right click
 Shift right click to pull half of it out
