@@ -24,9 +24,10 @@ The Hammer can be enchanted with:
 - [Mending](https://minecraft.wiki/wiki/Mending)
 - [Curse of Vanishing](https://minecraft.wiki/wiki/Curse_of_Vanishing)
 
-
 ## Functionality
-When you're in the vortex and want to speed up your journey hit the [TARDIS Console](../../blocks/console) with the Hammer (preferably at the console base to not press any buttons when you hit it) to boost the TARDIS Flight Speed. But make sure to not hit it too frequently as you can crash the TARDIS from hitting it.
+When you're in the vortex and want to speed up your journey hit the [TARDIS Console](../../blocks/console) with the Hammer (preferably at the console base to not press any buttons when you hit it) to boost the TARDIS Flight Speed. But make sure to not hit it too frequently as you can crash the TARDIS from hitting it. The more you hit it the more you can hurt your TARDIS feelings lowering her likings for you.
+
+
 
 ## Crafting Recipe
 
