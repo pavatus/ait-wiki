@@ -3,7 +3,7 @@ title: Waypoint Cartridge
 type: docs
 ---
 
-(images/waypoints/waypoints.png)
+![WC](images/waypoints/waypoints.png)
 
 ## How to set a waypoint
 
@@ -21,4 +21,4 @@ type: docs
 
 ## Crafting Recipe
 
-(images/waypoints/image_2024-08-08_212425838.png)
+![WCR](images/waypoints/image_2024-08-08_212425838.png)
