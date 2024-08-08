@@ -36,24 +36,31 @@ type: docs
 * Drifting off course X!
   1. Dimension
   2. X
+     
 * Drifting off course Y!
 1. Dimension
 2. Y
+   
 * Drifting off course Z!
 1. Dimension
 2. Z
+   
 * Debris incoming!
 1. Direction
 2. Randomizer
+   
 * Vortex drift: acceleration necessarry!
 1. Increment
 2. Throttle
+   
 * Immediate cloaking necessarry!
 1. Protocol 3
 2. Randomizer
+   
 * DIMENSION BREACH: SECURE DOORS
 1. Dimension
 2. Door Control
+   
 * Small debries field!
 1. Increment
 2.  Shields
