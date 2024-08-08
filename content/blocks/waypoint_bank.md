@@ -5,7 +5,7 @@ type: docs
 
 ![Waypoint Bank](images/waypoint_bank/waypoint_bank_display.png)
 
-The Waypoint Bank is a easy way to remake 
+The Waypoint Bank is a easy way to fix your storage issues with waypoint cartriges,just put them in and remotly activate them from anywhere in the tardis!
 
 ## Recipe
 
@@ -16,8 +16,8 @@ The Waypoint Bank is a easy way to remake
 
 
 
-Get your waypoint cartridge and then simply right click
-Shift right click to pull half of it out
-Shift right click again to activate the waypoint changing the destination
-Right click when its halfway out to pull it fully out
-Left click to push it back in if its halfway out.
+* Get your waypoint cartridge and then simply right click
+* Shift right click to pull half of it out
+* Shift right click again to activate the waypoint changing the destination
+* Right click when its halfway out to pull it fully out
+* Left click to push it back in if its halfway out.
