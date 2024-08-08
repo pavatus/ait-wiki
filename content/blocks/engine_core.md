@@ -3,7 +3,7 @@ title: Engine Core
 type: docs
 ---
 
-![Image of Engine Core](engine_core.png)
+![Image of Engine Core](images/engine_core/engine_core.png)
 
 The Engine Core is the main "heart" of The TARDIS used to power your whole TARDIS.
 
