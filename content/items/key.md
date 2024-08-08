@@ -1,5 +1,5 @@
 ---
-title: Waypoint Cartridge
+title: TARDIS Key
 type: docs
 ---
 
@@ -16,5 +16,3 @@ type: docs
 2. Find the `Load Waypoint` control and press right click
 3. Press the `Set Waypoint` control to set your destination to the waypoint
 4. Punch `Load Waypoint` to eject the waypoint
-
-## Crafting Recipe
