@@ -77,4 +77,4 @@ Some blocks would need to be interacted in the **Interaction** Mode or the **Ove
 Once the Sonic Screwdriver runs out of charge it will be stuck on **Inactive** Mode till you have charged your Sonic Screwdriver in the **Sonic Port**
 
 Also if you put the **Sonic Screwdriver** (in **Scanning** Mode) in the **Sonic Port** then it would allow you to view which buttons need to be pressed for 
-you to fly without crashing (**Flight Events**).
+you to fly without crashing (**Flight Events**),do note that if your a owner/pilot your tardis trusts you to fly her properly making the warnings no longer appear.
