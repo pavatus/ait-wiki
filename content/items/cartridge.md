@@ -3,6 +3,8 @@ title: Waypoint Cartridge
 type: docs
 ---
 
+(images/waypoints/waypoints.png)
+
 ## How to set a waypoint
 
 1. Hold the waypoint item in your hand
@@ -18,3 +20,5 @@ type: docs
 4. Punch `Load Waypoint` to eject the waypoint
 
 ## Crafting Recipe
+
+(images/waypoints/image_2024-08-08_212425838.png)
