@@ -17,20 +17,21 @@ type: docs
 1 BUTTON EVENTS
 
 * Artron drain detected!
-Refueler
+1. Refueler
 * Directional error!
-Direction
+1. Direction
 * Increment scale error! Recalculation necessary!
-Increment
+1. Increment
 * Gravity miscalculation!
-Antigravs
+1. Antigravs
 * Ship computer offline!
-P116
+1. P116
 
 2 BUTTON EVENTS
 
 * Drifting off course X!
-Dimension - X
+  1. Dimension
+  2. X
 * Drifting off course Y!
 Dimension - Y
 * Drifting off course Z!
@@ -49,7 +50,9 @@ Increment - Shields
 3 BUTTON EVENTS
 
 * Unstable landing posistion!
-Land Type - Y - Set Waypoint
+1. Land Type
+2. Y
+3. Set Waypoint
 * TARDIS off course!
 Handbrake - Throttle - Randomizer
 * Power drain imminent!
