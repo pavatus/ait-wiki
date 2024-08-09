@@ -24,6 +24,7 @@ Like how amethyst geodes are found,in caves!
 2. Used for the sonic screwdriver
 3. Used to get charged zeiton a alternate to the nether star for reconfiguring your coral
 4. Zeiton dust
+5. Probably more that im forgetting in here.
 
 ## How do i get the big zeiton crystal?
 You need silk touch for the big one
