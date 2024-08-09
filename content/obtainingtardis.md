@@ -4,7 +4,7 @@ type: docs
 ---
 
 ## Growing A TARDIS Coral
-Some prior information, you will need to obtain **soul sand** and a **nether star**, 
+Some prior information, you will need to obtain **soul sand** and a **nether star** or **charged zeiton**, 
 we suggest you read this [**rift chunk**](../../mechanics/rift-chunks) webpage as it is necessary to find one of these in the world before you can begin the process.
 To **grow** a TARDIS, follow these step-by-step instructions: 
 
