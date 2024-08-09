@@ -25,7 +25,7 @@ To restore a TARDIS please follow these steps:
 
 1. Once grown, the coral will present you with a door into the interior dimension it has grown from the [**Artron Energy**](../../mechanics/artron) in the rift.
 
-2. Walk inside the growth, and - once inside - find any water, and toss your **nether star** into it.
+2. Walk inside the growth, and - once inside - find any water, and toss your **nether star** into it,or your fully charged zeiton crystal.
 
 3. Vacate the interior and wait for your TARDIS to rematerialise.
 
