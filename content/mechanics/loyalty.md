@@ -6,7 +6,7 @@ type: docs
 
 yup, loyalty is a new mechanic in Update 1.0.5, your TARDIS is alive and will actively judge you depening on what actions you take and how you treat her
 
-Therese 4 ranks,which are.
+Therese 5 ranks,which are.
 
 1. Owner
 2. Pilot
