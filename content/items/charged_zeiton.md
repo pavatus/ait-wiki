@@ -5,7 +5,7 @@ type: docs
 
 ## What is this?
 
-Charged zeiton is a alternative to the nether star when getting your TARDIS,as it turns out killing a wither can often be a nuisance,though with a little trick your able to replicate the energy of a nether star without having to actually kill a wither,this is where the fully grown zeiton crystal comes in.
+Charged zeiton is a alternative to the nether star when getting your TARDIS,as it turns out killing a wither can often be a nuisance,though with a little trick your able to replicate the energy of a nether star without having to actually kill a wither,this is where the fully grown zeiton crystal comes in,by modifing it your able to re-create the energy of a nether star.
 
 ## Why cant i just use normal zeiton?
 
