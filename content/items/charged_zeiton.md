@@ -12,7 +12,7 @@ Charged zeiton is a alternative to the nether star when getting your TARDIS,as i
 Normal zeiton hasent been modified to actually be able to hold up the required amount of artron units.
 
 ## Well how do i get charged zeiton then?
-![CZ](images/zeiton/items/Chargedzeiton.png)
+![CZ](images/zeiton/items/Charged_zeiton.png)
 
 ## Why does it say 0/5000 AU?
 The zeiton crystal can hold up to 5000 artron units,which is the required amount for a TARDIS coral to reform its interior for usage,to actually charge it use the artron collector in a rift chunk and harvest the artron units from it.
