@@ -88,4 +88,4 @@ type: docs
 
 ## Turns out i acctualy suck at flying the tardis even WITH the warnings,what do i do?
 
-* Auto pilot is somthing you can use to turn off flight events,however it caps your speed at evry low and you wont be able to gain loyalty.
+* Auto pilot is somthing you can use to turn off flight events,however it caps your speed 1-2 low and you wont be able to gain loyalty.
