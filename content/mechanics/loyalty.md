@@ -15,7 +15,7 @@ Therese 5 ranks,which are.
 5. Reject
 
 * Each rank needs a certain amount of loyalty points.
-* Owner requires 100,
+* Owner requires 100
 * Pilot requires 75
 * Companion requires 50
 * Neutral requires 25
