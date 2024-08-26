@@ -44,7 +44,7 @@ params:
     displayLogo: true
     logo:
       path: logo.png
-      link: /ait/
+      link: /ait-wiki/
       width: 40
       height: 20
 
