@@ -1,6 +1,6 @@
 # Hugo configuration file
 title: AIT Wiki
-baseURL: https://loqor.dev/ait/
+baseURL: https://pavatus.github.io/ait-wiki/
 
 # import hextra as module
 module:
@@ -55,14 +55,14 @@ params:
 
   editURL:
     enable: true
-    base: "https://github.com/Loqor/ait/edit/main/content"
+    base: "https://pavatus.github.io/ait-wiki/edit/main/content"
 
   comments:
     enable: true
     type: giscus
 
     giscus:
-      repo: DrTheodor/ait-wiki
+      repo: pavatus/ait-wiki
       repoId: R_kgDOML5FAA
       category: General
       categoryId: DIC_kwDOML5FAM4CgOE1
