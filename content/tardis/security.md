@@ -22,4 +22,4 @@ When this feature has been activated any hostile mobs that entered the **TARDIS*
 
 # Other Info
 # How to activate Isomorphic Security (Protocol 19)
-On the console, find "Protocol 19" and use a key linked to that TARDIS and click on the control. Once that's done, anyone that has a key that's linked to the current TARDIS can use the console, but anyone without cannot interact with it at all.
+On the console, find "Protocol 19" and use a key linked to that TARDIS and click on the control. Once that's done, anyone that has a key that's linked to the current TARDIS can use the console, but anyone without cannot interact with it at all,you can set what loyalty a user needs to bypass this though,like compangion for example.
