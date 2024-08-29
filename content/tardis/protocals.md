@@ -44,5 +44,5 @@ Hail Mary Mode is a function on your TARDIS console designed to rescue the pilot
 
 Hail Mary Mode also requires [Artron energy](../../mechanics/artron) to operate, so make sure that the TARDIS has a healthy supply of fuel before activating this protocol.
 
-# Isomorphic Security (Protocol 19)
+# Protocol 19 (AKA **Isomorphic Security**)
 On the console, find "Protocol 19" and use a key linked to that TARDIS and click on the control. Once that's done, anyone that has a key that's linked to the current TARDIS can use the console, but anyone without cannot interact with it at all,though via the security menue your able to change at what loyalty ranking players are allowed to interact with the console while P19 is active.
