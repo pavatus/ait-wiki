@@ -30,7 +30,7 @@ Evrything after iron unlocks snapping if you have enough loyalty for it,each ran
 * Netherrite key
 ![Recpie7](images/keys/recpie/7.png)
 
-## How do i get those awsome key trims?
+## How do I get those awesome key trims?
 
 * Iron trim
 ![Recpie2](images/keys/recpie/2.png)

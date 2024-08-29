@@ -5,7 +5,7 @@ type: docs
 
 ![Waypoint Bank](images/waypoint_bank/waypoint_bank_display.png)
 
-The Waypoint Bank is a easy way to fix your storage issues with waypoint cartriges,just put them in and remotly activate them from anywhere in the tardis!
+The Waypoint Bank is a easy way to fix your storage issues with waypoint cartriges, just put them in and remotly activate them from anywhere in **The TARDIS**!
 
 ## Recipe
 
@@ -13,7 +13,7 @@ The Waypoint Bank is a easy way to fix your storage issues with waypoint cartrig
 
 ## How do I use the Waypoint Bank?
 
-
+The Waypoint Bank has 16 slots which you can insert a [Waypoint Cartrage](../../items/) into by interacting with one of the slots(Normally by right clicking it). If you **sneak** and **Interact** it.
 
 
 * Get your waypoint cartridge and then simply right click

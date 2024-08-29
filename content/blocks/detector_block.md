@@ -7,11 +7,11 @@ type: docs
 
 The Detector Block is used for emiting redstone once it meets a specific condition it's been set to and it can only work if it is in The TARDIS.
 
-## How to craft The Detector Block
+## How do I craft The Detector Block
 
 ![The Detector Block Recipe](images/detector/recipe.png)
 
-## How to use The Detector Block
+## How do I use The Detector Block
 
 The Detector Block have 7 Modes:
 - **Orange** (If The TARDIS Power is on)

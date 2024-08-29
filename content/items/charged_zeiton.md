@@ -1,5 +1,5 @@
 ---
-title: Charged zeiton
+title: Charged Zeiton
 type: docs
 ---
 
@@ -17,4 +17,4 @@ Normal zeiton hasent been modified to actually be able to hold up the required a
 ## Why does it say 0/5000 AU?
 The zeiton crystal can hold up to 5000 artron units,which is the required amount for a TARDIS coral to reform its interior for usage,to actually charge it use the artron collector in a rift chunk and harvest the artron units from it.
 
-![CZ](images/zeiton/items/Charge.png)
+![Charged Zeiton](images/zeiton/items/Charge.png)

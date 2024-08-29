@@ -22,7 +22,7 @@ If you have the **Gold, Netherite & Classic Key** Snapping your fingers (The Def
 
 Opening the **Interior Door** while in flight would cause most entitys (including players) inside the **TARDIS Interior** will be sucked towards the door and would be located at the previous TARDIS Location.
 
-When your in flight you can hear when you are near the **Interior Door** the sound of the vortex and if theres lava infront of The TARDIS then you can hear bubbling noises from the lava
+When your in flight you can hear when you are near the **Interior Door** the sound of the vortex and when landed if theres lava infront of The TARDIS then you can hear bubbling noises from the lava and even water! You can also hear the weather outside too.
 
 ![Police Box Interior Door](images/interior_door/policebox_interior_door.png)
 

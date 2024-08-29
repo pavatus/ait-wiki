@@ -8,6 +8,7 @@ type: docs
 2. Use the **white arrows** to change the exterior **type**. 
 3. Use the **purple arrows** to change the exterior **variant**.
 4. To save your changes, click **"Apply"**.
+You're also able to add your own custom exteriors with [**Datapacks**](../../datapacks/exteriors). 
 
 ---
 
@@ -18,7 +19,7 @@ type: docs
 4. To start **Interior Reconfiguration**, click the image of the desktop you want.
 5. The process will use up [**5000 AU**]({{ site.baseurl }}{% post_url 2024-01-26-artron-energy %}).
 6. Exit the interior, and wait for the cloister bells to stop ringing.
-You're also able to add your own custom desktops with [**datapacks**]({{ site.baseurl }}{% post_url 2024-02-02-datapack-interiors %}). 
+You're also able to add your own custom desktops with [**Datapacks**](../../datapacks/interiors). 
 
 ---
 
