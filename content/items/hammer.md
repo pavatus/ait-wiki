@@ -27,7 +27,7 @@ The Hammer can be enchanted with:
 ## Functionality
 When you're in the vortex and want to speed up your journey hit the [TARDIS Console](../../blocks/console) with the Hammer (preferably at the console base to not press any buttons when you hit it) to boost the TARDIS Flight Speed. But make sure to not hit it too frequently as you can crash the TARDIS from hitting it. The more you hit it the more you can hurt your TARDIS feelings lowering her likings for you.
 
-When The Hammer is renamed to the "Toymaker Hammer" the model changes the a bigger and taller version that matches a simular Hammer in the show for the 3rd Episode of the 60th Anniversery of **Doctor WHO**.
+When The Hammer is renamed to the "Toymaker Hammer" the model changes the a bigger and taller version that matches a similar Hammer in the show for the 3rd Episode of the 60th Anniversery of **Doctor WHO**.
 
 ## Crafting Recipe
 
