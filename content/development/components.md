@@ -55,6 +55,22 @@ It's also important to register it:
 TardisComponentRegistry.getInstance().register(MY_ID);
 ```
 
+IDs are used for both networking and querying. To get a component from a `Tardis` instance, call the `#handler(TardisComponent.IdLike)` like this:
+
+```java
+Tardis tardis = ...;
+tardis.<SomeTardisHandler>handler(SOME_ID);
+```
+
+Or just 
+```
+SomeTardisHandler myHandler = tardis.<>handler(SOME_ID);
+```
+
+The compiler will not check if the ID corresponds to the handler class you're trying to get. If the types mismatch and you'll try to get, say, travel by flight then code will throw a `ClassCastException`!
+
+For convenience, default AIT components have getters in the `Tardis` class built-in, to avoid boilerplate and casting. 
+
 # Ticking
 All components can receive a server tick event (serverside only).
 
