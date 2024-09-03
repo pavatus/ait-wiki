@@ -77,7 +77,7 @@ All components can receive a server tick event (serverside only).
 To do that, you can just implement the `TardisTickable` interface and override the default `#tick(MinecraftServer)` method.
 
 # Synching
-It's recommended to use [V2 properties](properties) for this, but in case your data structure is too complex to be implemented using the properties API, you can use this method.
+It's recommended to use [V2 properties](../properties) for this, but in case your data structure is too complex to be implemented using the properties API, you can use this method.
 
 You can call `TardisComponent#sync` to force sync the full component data _from server to client_. It won't work the other way around.
 
