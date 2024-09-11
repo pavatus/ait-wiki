@@ -54,6 +54,7 @@ It's also important to register it:
 ```java
 TardisComponentRegistry.getInstance().register(MY_ID);
 ```
+It's very important to register the component on time. Otherwise, the component registry will freeze and won't add your component. Read [addon entrypoint](../entrypoint/) for details
 
 IDs are used for both networking and querying. To get a component from a `Tardis` instance, call the `#handler(TardisComponent.IdLike)` like this:
 
