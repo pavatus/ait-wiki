@@ -15,4 +15,4 @@ In the `entrypoints` field in your `fabric.mod.json` add a new element like this
 
 Then create your initializer class by implementing the `AITModInitializer` class.
 
-(also AIT
+(fun fact: AIT uses this to add mod compatibility)
