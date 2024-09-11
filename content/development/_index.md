@@ -1,6 +1,6 @@
 ---
 title: Contributing & addon development
-next: components
+next: entrypoint
 type: docs
 ---
 
