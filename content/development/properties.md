@@ -41,3 +41,20 @@ class ExampleHandler extends KeyedTardisComponent {
     // ...
 }
 ```
+
+### Primitive Values
+While you can use the `Value` class with the boxed variants of primitives (`Integer`, `Boolean`, etc), it's not always the desired solution.
+
+Boxed primitives are objects, meaning they can have a `null` value, while the primitives take `0` or `false` as default.
+
+If you want your properties have the same behaviour as primitives, then use primitive values.
+
+Instead of doing `Property<Integer>` and `Value<Integer>` use `IntProperty` and `IntValue`. Same applies to `float` & `boolean` (as of 1.0.5).
+
+### Ranged Properties
+`RangedIntProperty` allows you to automatically clamp the value between a start and end integers. 
+:::note
+Only do this if the desired behaviour *breaks* with values out of the range. Otherwise, make a public setter for the value, that clamps it.
+
+The clamp range will affect values set by packets and commands too.
+:::
