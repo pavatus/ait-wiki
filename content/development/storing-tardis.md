@@ -1,5 +1,6 @@
 ---
 title: Storing the TARDIS
+next: guidelines
 type: docs
 ---
 
