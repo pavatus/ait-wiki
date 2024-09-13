@@ -1,3 +1,8 @@
+---
+title: Guidelines
+type: docs
+---
+
 # Components
 - All TARDIS component classes should end with `Handler`.
 
