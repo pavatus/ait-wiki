@@ -39,4 +39,5 @@ class ExampleHandler extends KeyedTardisComponent {
     }
 
     // ...
+}
 ```
