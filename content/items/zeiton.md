@@ -3,7 +3,7 @@ title: Zeiton
 type: Docs
 params:
     images:
-        - images/zeiton/structure/Geode.png
+        - items/images/zeiton/structure/Geode.png
 ---
 
 ## What is zeiton?

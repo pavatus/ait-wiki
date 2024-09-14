@@ -3,7 +3,7 @@ title: Interior Door
 type: docs
 params:
     images:
-      - images/tardis_interior_door.png
+      - blocks/images/tardis_interior_door.png
 ---
 
 ![Image of TTCapsule Interior Door](images/tardis_interior_door.png)

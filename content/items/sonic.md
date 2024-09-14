@@ -3,7 +3,7 @@ title: Sonic Screwdriver
 type: docs
 params:
     images:
-        - images/sonic/mechanical.png
+        - items/images/sonic/mechanical.png
 ---
 
 ![Mechanical Sonic Screwdriver](images/sonic/mechanical.png)

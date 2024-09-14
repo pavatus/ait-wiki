@@ -3,7 +3,7 @@ title: Waypoint Bank
 type: docs
 params:
     images:
-        - images/waypoint_bank/waypoint_bank_display.png
+        - blocks/images/waypoint_bank/waypoint_bank_display.png
 ---
 
 ![Waypoint Bank](images/waypoint_bank/waypoint_bank_display.png)

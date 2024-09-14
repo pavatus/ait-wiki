@@ -3,7 +3,7 @@ title: Enviroment Projector
 type: docs
 params:
   images:
-    - images/enviroment_projector.png
+    - blocks/images/enviroment_projector.png
 ---
 
 ![Image of Console Generator](images/enviroment_projector.png)

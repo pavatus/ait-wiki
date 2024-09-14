@@ -3,7 +3,7 @@ title: TARDIS Key
 type: docs
 params:
     images:
-        - images/keys/key/keys.png
+        - items/images/keys/key/keys.png
 ---
 
 ## What keys are there?

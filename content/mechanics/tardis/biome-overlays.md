@@ -3,7 +3,7 @@ title: Biome overlays
 type: docs
 params:
     images:
-        - images/snowy_overlay.png
+        - mechanics/tardis/images/snowy_overlay.png
 ---
 
 ## What are they?

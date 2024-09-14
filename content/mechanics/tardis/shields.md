@@ -3,7 +3,7 @@ title: TARDIS Shields
 type: docs
 params:
     images:
-        - images/shields/shield.png
+        - mechanics/tardis/images/shields/shield.png
 ---
 ## How do I use the shields?
 

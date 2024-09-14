@@ -3,7 +3,7 @@ title: Waypoint Cartridge
 type: docs
 params:
     images:
-        - images/waypoints/waypoints.png
+        - items/images/waypoints/waypoints.png
 ---
 
 ![Waypoint Cartridge](images/waypoints/waypoints.png)
