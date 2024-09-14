@@ -23,5 +23,5 @@ To restore a TARDIS follow these steps:
 1. Once grown, the coral will present you with a door into the interior dimension it has grown from the [**Artron Energy**](../../mechanics/artron) in the rift.
 2. Walk inside the growth, and - once inside - find any water, and toss your **nether star** into it, or your fully **charged zeiton crystal**.
 3. Vacate the interior and wait for your TARDIS to rematerialise.
-4. Craft a [**Engine Core**](/blocks/engine-core) and [set it up](/blocks/engine-core#how-to-activate-the-core).
+4. Craft a [**Engine Core**](../../blocks/engine-core) and [set it up](../../blocks/engine-core#how-to-activate-the-core).
 5. Enjoy your working TARDIS!
