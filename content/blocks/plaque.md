@@ -3,7 +3,7 @@ title: TARDIS Plaque
 type: docs
 params:
     images:
-        - images/plaque.png
+        - blocks/images/plaque.png
 ---
 
 ![TARDIS Plaque](images/plaque.png)

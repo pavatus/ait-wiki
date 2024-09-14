@@ -3,7 +3,7 @@ title: Wall Monitor
 type: docs
 params:
     images:
-        - images/wall_monitor.png
+        - blocks/images/wall_monitor.png
 ---
 
 ![Monitor](images/wall_monitor.png)

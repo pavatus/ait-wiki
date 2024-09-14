@@ -3,7 +3,7 @@ title: Monitor
 type: docs
 params:
     images:
-        - images/monitor.png
+        - blocks/images/monitor.png
 ---
 
 ![Monitor](images/monitor.png)

@@ -3,7 +3,7 @@ title: Engine Core
 type: docs
 params:
     images:
-        - images/engine_core/engine_core.png
+        - ./images/engine_core/engine_core.png
 ---
 
 ![Image of Engine Core](images/engine_core/engine_core.png)
