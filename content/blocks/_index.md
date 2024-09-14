@@ -10,7 +10,7 @@ sidebar:
 Here are some Important blocks for **The TARDIS** that you'll need:
 {{< cards >}}
   {{< card link="console" title="Console" image="images/console.png" subtitle="The TARDIS console is the main control unit of the TARDIS." >}}
-  {{< card link="engine_core" title="Engine Core" image="images/engine_core.png" subtitle="The Engine Core is the Heart of the TARDIS giving it life." >}}
+  {{< card link="engine-core" title="Engine Core" image="images/engine_core.png" subtitle="The Engine Core is the Heart of the TARDIS giving it life." >}}
   {{< card link="door" title="Interior Door" image="images/console.png" subtitle="How else would you be able to get out your TARDIS?" >}}
 {{< /cards >}}
 

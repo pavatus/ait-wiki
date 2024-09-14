@@ -53,8 +53,8 @@ Instead of doing `Property<Integer>` and `Value<Integer>` use `IntProperty` and 
 
 ### Ranged Properties
 `RangedIntProperty` allows you to automatically clamp the value between a start and end integers. 
-:::note
+{{< callout type="info" >}}
 Only do this if the desired behaviour *breaks* with values out of the range. Otherwise, make a public setter for the value, that clamps it.
 
 The clamp range will affect values set by packets and commands too.
-:::
+{{< /callout >}}
