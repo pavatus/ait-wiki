@@ -1,6 +1,9 @@
 ---
 title: Console
 type: docs
+params:
+    images:
+      - images/console.png
 ---
 
 ![Image of Console Generator](images/console.png)

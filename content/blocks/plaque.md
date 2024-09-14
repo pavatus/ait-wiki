@@ -1,6 +1,9 @@
 ---
 title: TARDIS Plaque
 type: docs
+params:
+    images:
+        - images/plaque.png
 ---
 
 ![TARDIS Plaque](images/plaque.png)

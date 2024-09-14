@@ -1,6 +1,9 @@
 ---
 title: TARDIS Star
 type: docs
+params:
+    images:
+        - images/tardis_star.png
 ---
 
 ![Engine Core](images/tardis_star.png)

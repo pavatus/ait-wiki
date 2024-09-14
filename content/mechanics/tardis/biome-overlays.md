@@ -1,6 +1,9 @@
 ---
 title: Biome overlays
 type: docs
+params:
+    images:
+        - images/snowy_overlay.png
 ---
 
 ## What are they?

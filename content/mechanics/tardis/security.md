@@ -10,7 +10,7 @@ type: docs
 # TARDIS Security Features
 Feel like locking the door isn't enough? No worries as if you go into your [**Console**](../../blocks/console) then hit **Settings** above the **Sonic Settings** you should see the **Security** button. Right-clicking the button takes you to this menu...
 
-![Security Menu](images/security/securitymenu)
+![Security Menu](images/security/securitymenu.png)
 
 Here you can see when your TARDIS has been built, and you can change some Security settings.
 

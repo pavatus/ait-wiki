@@ -1,6 +1,9 @@
 ---
 title: TARDIS Key
 type: docs
+params:
+    images:
+        - images/keys/key/keys.png
 ---
 
 ## What keys are there?
@@ -10,7 +13,7 @@ type: docs
 * Gold
 * Iron
 
-![Thekeys](images/keys/key/keys.png)
+![The keys](images/keys/key/keys.png)
 
 ## What do they do?
 

@@ -1,9 +1,9 @@
 ---
 title: Engine Core
 type: docs
-cascade:
-    params:
-        banner: images/engine_core/engine_core.png
+params:
+    images:
+        - images/engine_core/engine_core.png
 ---
 
 ![Image of Engine Core](images/engine_core/engine_core.png)

@@ -1,6 +1,9 @@
 ---
 title: Interior Detector Block
 type: docs
+params:
+    images:
+        - images/detector_block.png
 ---
 
 ![The Detector Block](images/detector_block.png)

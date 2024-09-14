@@ -1,6 +1,9 @@
 ---
 title: Monitor
 type: docs
+params:
+    images:
+        - images/monitor.png
 ---
 
 ![Monitor](images/monitor.png)

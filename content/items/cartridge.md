@@ -1,6 +1,9 @@
 ---
 title: Waypoint Cartridge
 type: docs
+params:
+    images:
+        - images/waypoints/waypoints.png
 ---
 
 ![Waypoint Cartridge](images/waypoints/waypoints.png)
