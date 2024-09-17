@@ -32,7 +32,7 @@ A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8. Here's a list of
 | Bliss (latest) | | |
 
 #### Q: How do I become a beta tester?
-A: Beta testers?
+A: Beta testers? I don't know what you're talking about.
 
 #### Q: Where can I download the mod?
 A: [Here](https://modrinth.com/mod/ait).
