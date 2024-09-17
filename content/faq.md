@@ -40,4 +40,12 @@ A: [Here](https://modrinth.com/mod/ait).
 #### Q: Can I get my [something] added?
 A: No, end of discussion. If we feel like it fits, we will contact you directly.
 
+#### How do I get beta builds?
+A: Donators, beta testers, team members and some addon developers get access to beta builds. To become a donator you can support Loqor [here](https://ko-fi.com/loqor).
 
+#### Q: What perks do donators get?
+A:
+- Access to dev builds.
+- Special teasers.
+- Opportunity to test experimental dev builds on a server.
+- Access to other donator only channels including special priority suggestions.
