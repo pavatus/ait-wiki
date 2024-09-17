@@ -49,3 +49,6 @@ A:
 - Special teasers.
 - Opportunity to test experimental dev builds on a server.
 - Access to other donator only channels including special priority suggestions.
+
+#### Q: I got unfairly banned/I want to appeal my ban on the Discord/MC server!
+A: Talk with people who have the mod council role.
