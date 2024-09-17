@@ -34,6 +34,10 @@ A: The recommended combination is Iris 1.6.17 and Sodium 0.5.8. Here's a list of
 #### Q: How do I become a beta tester?
 A: Beta testers?
 
-#### Q: 
+#### Q: Where can I download the mod?
+A: [Here](https://modrinth.com/mod/ait).
+
+#### Q: Can I get my [something] added?
+A: No, end of discussion. If we feel like it fits, we will contact you directly.
 
 
