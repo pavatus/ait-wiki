@@ -74,4 +74,20 @@ ID name shouldn't include "handler" or "component".
 - `idontlikespaces`
 - `thisSucks`
 
+## Getting your component
+Since using `tardis.<MyComponentHandler>.handler(MyComponentHandler.ID)` is quite bothersome, it's recommended to either 
+- make a getter in the `Tardis` class like this:
+```java
+public MyComponentHandler myComponent() {
+    return this.handler(MyComponentHandler.ID);
+}
+```
+This is the recommended way if you're *contributing* to AIT.
 
+- or alternatively make a static method in your handler class like this:
+```java
+public static MyComponentHandler get(Tardis tardis) {
+    return tardis.handler(ID);
+}
+```
+Thus is the recommended way if you're making an addon.
