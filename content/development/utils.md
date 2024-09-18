@@ -68,6 +68,8 @@ Allows to shake player's screen.
 ### `ClientTardisUtil`
 Allows to check if the player is inside a TARDIS, if so, allows to get that TARDIS' `ClientTardis` instance efficiently.
 
+Use this to get the `ClientTardis`, in which the player is located in. Will be `null` if the player is not in a TARDIS.
+
 > Tech note: instead of searching for the  TARDIS instance each frame it will do it once per tick if conditions are met.
 
 ### `FoggyUtils`
