@@ -15,3 +15,6 @@ When activated, it turns into a tree/desert well/chorus plant/giant mushroom and
 Due to [the way it was implemented](../../../development/how-it-works/chameleon/) it has 2 qualities:
 1. It's undetectable. You can't use F3, WAILA or X-ray mods to find a disguised TARDIS.
 2. It's dynamic. It doesn't have any presets, therefore it finds the shape to take dynamically. Meaning it works with modded (& datapack) biomes.
+
+To open a camouflaged TARDIS, click the bottom block, where the exterior would normally be. Doing that will reveal the capsule.
+Closing the door will camouflage it back.
