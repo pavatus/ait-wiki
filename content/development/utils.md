@@ -51,3 +51,24 @@ Allows to easily send a packet to all players inside a TARDIS/all linked players
 Can find all tracked players and sens NBT packets.
 
 # Client
+Client utils are usually used for rendering purposes or handling client-side cache.
+
+### `AngleInterpolator`
+An utility class that can be instantiated. Used to interpolate angle/rotation for the [Rift Locator](../items/rift-locator).
+
+### `ClientItemUtil`
+Allows to render baked models without an item stack.
+
+### `ClientLightUtil`
+Allows to render compatible with shader mods emissives on block entities.
+
+### `ClientShakeUtil`
+Allows to shake player's screen.
+
+### `ClientTardisUtil`
+Allows to check if the player is inside a TARDIS, if so, allows to get that TARDIS' `ClientTardis` instance efficiently.
+
+> Tech note: instead of searching for the  TARDIS instance each frame it will do it once per tick. 
+
+### `FoggyUtil`
+
