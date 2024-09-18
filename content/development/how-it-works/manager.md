@@ -27,7 +27,7 @@ Then each minute or two STM would fully re-send the TARDIS data.
 
 STM also has methods to send partial data, in which case the `UPDATE` (for updating components) and `UPDATE_PROPERTY` (for updating properties) packets were used.
 
-> Why it failed: a singular TARDIS could produce multiple update packets per tick. Sending full TARDIS data every few minutes was a hack.
+> How it failed: a singular TARDIS could produce multiple update packets per tick. Sending full TARDIS data every few minutes was a hack.
 
 
 #### 1.0.5:
@@ -48,6 +48,7 @@ Updated TARDIS' get put in a buffer inside STM, which will iterate through it an
 This version had no partial updates implemented serverside.
 
 > Why it failed: no partial updates meant that there was much more serialization going on than needed.
+
 > How it improved: no more `ASK` packet, server defined what to send and what not. One packet per tick made sure there was as less of packet spam as possible.
 
 #### 1.0.6+
@@ -64,6 +65,7 @@ Updated TARDIS' get put in a buffer inside STM, which will iterate through it an
 Partial updates became possible once again. Because the STM knows the difference between a player loading a chunk and a player staying in a chunk, it can send a full packet to a player who just loaded the chunk and a partial update to a player who tracked the chunk.
 
 > How it improved: partial updates.
+
 > How it failed: multiple packets per TARDIS update are back.
 
 #### Future?
