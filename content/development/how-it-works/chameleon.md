@@ -38,5 +38,7 @@ Step 2 is quite easy and uses only 2 for-loops to find a random configured featu
 ## Step 3
 Now that its possible to create convincing fake blocks and we can get a structure we need to build, all thats left is to tie them up together.
 
-Unfortunately there's no way to just get the positions and the blockstates from a configured feature, since it's more of a blueprint.
+Unfortunately there's no way to just get the positions and the blockstates from a configured feature, since it's more of a blueprint. 
+
+Buuut you can place a structure! Meaning that if you record whatever it tries to place you'll get the positions and states which you can use to create the delta packet.
 
