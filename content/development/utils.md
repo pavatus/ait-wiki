@@ -68,7 +68,13 @@ Allows to shake player's screen.
 ### `ClientTardisUtil`
 Allows to check if the player is inside a TARDIS, if so, allows to get that TARDIS' `ClientTardis` instance efficiently.
 
-> Tech note: instead of searching for the  TARDIS instance each frame it will do it once per tick. 
+> Tech note: instead of searching for the  TARDIS instance each frame it will do it once per tick if conditions are met.
 
-### `FoggyUtil`
+### `FoggyUtils`
+Do not call. Renders the custom fogs. Do not call. If you want to add your own fog for a condition - mixin into it.
 
+### `ShaderUtils`
+Do not call. Used internally to change game rendering.
+
+### `SkyboxUtil`
+Do not call. Used to render the TARDIS sky in the world. 
