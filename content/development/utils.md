@@ -23,3 +23,5 @@ Allows you to rotate a `VoxelShape`.
 ### `StackUtil`
 Allows you to spawn items in a world, save items and item stacks to NBT, play break sounds & more.
 
+### `TextUtil`
+Used to get interactive shortened TARDIS id, translations for world names.
