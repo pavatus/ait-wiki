@@ -55,3 +55,23 @@ public void setMyValue(SomeClass some) {
 ```
 (you'd probably want to make a getter for the raw value too, since otherwise you'd allow other classes to bypass the setter)
 
+## IDs
+TARDIS component ID names should be upper snake case in english without special symbols (except for underscores and colons). 
+
+If you add a custom component in an addon it's recommended to prefix it with your mod id (in uppercase).
+
+ID name shouldn't include "handler" or "component".
+
+**Do**'s:
+- `TRAVEL`
+- `FLIGHT`
+- `STATS`
+- `AITE:ENERGY`
+
+**Don't**'s:
+- `MyComponent`
+- `Some Handler`
+- `idontlikespaces`
+- `thisSucks`
+
+
