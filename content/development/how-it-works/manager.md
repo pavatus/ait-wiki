@@ -66,9 +66,10 @@ Partial updates became possible once again. Because the STM knows the difference
 
 > How it improved: partial updates.
 
-> How it failed: multiple packets per TARDIS update are back.
+> How it failed: multiple packets per TARDIS update are back. Property deltas update their holder component instead of just the property.
 
 #### Future?
 In future the following optimisations may be applies:
 1. Lazy TARDIS loading. Why load every single TARDIS file if they might not even get used?
 2. Delta packets. Send a bulk update packet, which contains data to update both components and properties on the client.
+3. Property deltas. The current implementation just adds the property's holder component to the delta list.
