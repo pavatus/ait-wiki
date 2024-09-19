@@ -66,7 +66,7 @@ Partial updates became possible once again. Because the STM knows the difference
 
 > How it improved: partial updates.
 
-> How it failed: multiple packets per TARDIS update are back. Property deltas update their holder component instead of just the property.
+> How it failed: multiple packets per TARDIS update are back. Property deltas update their holder component instead of just the property. The mod can chain multiple full tardis sends at once. The mod can send a full update when loading a marked chunk, even though the data is synched via the other chunk.
 
 #### Future?
 In future the following optimisations may be applies:
