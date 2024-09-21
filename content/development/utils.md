@@ -29,7 +29,7 @@ Used to get interactive shortened TARDIS id, translations for world names.
 ### `WorldUtil`
 Allows you to get all not blacklisted worlds, where a TARDIS can travel to, as well as the overworld, tardis and time vortex worlds.
 
-Allows to find save landing positions for a TARDIS.
+Allows to find safe landing positions for a TARDIS.
 
 ## TARDIS
 TARDIS utils are utility classes closely related to TARDIS code.
@@ -48,7 +48,7 @@ An utility class that can be instantiated. Used to clear an area for a desktop, 
 ### `NetworkUtil`
 Allows to easily send a packet to all players inside a TARDIS/all linked players.
 
-Can find all tracked players and sens NBT packets.
+Can find all tracked players and send NBT packets.
 
 # Client
 Client utils are usually used for rendering purposes or handling client-side cache.
