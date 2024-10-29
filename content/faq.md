@@ -52,3 +52,6 @@ A:
 
 #### Q: I got unfairly banned/I want to appeal my ban on the Discord/MC server!
 A: Talk with people who have the mod council role.
+
+#### Q: AIT is boring where can I find out/install AIT Addons
+A: There's a Discord Server: https://discord.gg/aYEtPD24bF and if you want your addon to be in the discord DM **teeho (Dr. Theo)**.
