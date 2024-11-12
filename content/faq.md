@@ -3,6 +3,19 @@ title: Frequently Asked Questions (FAQ)
 type: docs
 ---
 
+#### Q: Is there a channel with all of the community addons?
+A: There's a semi-official discord server, [AIT Addons](https://discord.gg/jz3mPsDEdT)
+
+#### Q: How do I make a mod addon?
+A: If you want to make a mod addon, refer to [this article](https://pavatus.github.io/ait-wiki/development/).
+
+#### Q: How do I make a datapack addon?
+A: If you want to make a datapack addon, refer to [this article](https://pavatus.github.io/ait-wiki/datapacks/).
+
+#### Q: What do I choose: datapack or mod for making an addon for AIT?
+A: Depends. If you just want to add interiors, desktops, exterior and console variants, custom tardis names and etc then you're free to choose "datapack" as your option.
+Otherwise, making a mod is recommended. And yes, you can use a datapack inside a mod.
+
 #### Q: I changed my interior and now I can't turn the power on!
 A: You need to set up the [engine core](../blocks/engine-core).
 
