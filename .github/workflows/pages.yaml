@@ -1,27 +1,28 @@
-# Sample workflow for building and deploying a Hugo site to GitHub Pages
-name: Deploy Hugo site to Pages
+# Workflow for building and deploying Hugo sites from multiple branches
+name: Deploy Hugo Sites to Pages
 
 on:
-  # Runs on pushes targeting the default branch
+  # Trigger on pushes to `main` and `1.2.0` branches
   push:
-    branches: ["main"]
+    branches:
+      - main
+      - 1.2.0
 
-  # Allows you to run this workflow manually from the Actions tab
+  # Allow manual workflow execution
   workflow_dispatch:
 
-# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+# Set permissions for GITHUB_TOKEN to enable Pages deployment
 permissions:
   contents: read
   pages: write
   id-token: write
 
-# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
-# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+# Ensure only one deployment runs at a time
 concurrency:
   group: "pages"
   cancel-in-progress: false
 
-# Default to bash
+# Default shell for all steps
 defaults:
   run:
     shell: bash
@@ -33,37 +34,53 @@ jobs:
     env:
       HUGO_VERSION: 0.126.3
     steps:
-      - name: Checkout
+      # Step 1: Check out the repository
+      - name: Checkout repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0  # fetch all history for .GitInfo and .Lastmod
+          fetch-depth: 0  # Fetch all history for Hugo .GitInfo and .Lastmod
           submodules: recursive
+
+      # Step 2: Set up Go environment (required by Hugo extended version)
       - name: Setup Go
         uses: actions/setup-go@v5
         with:
           go-version: '1.22'
+
+      # Step 3: Configure GitHub Pages environment
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4
-      - name: Setup Hugo
+
+      # Step 4: Install Hugo extended version
+      - name: Install Hugo
         run: |
           wget -O ${{ runner.temp }}/hugo.deb https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
           && sudo dpkg -i ${{ runner.temp }}/hugo.deb
-      - name: Build with Hugo
+
+      # Step 5: Build the Hugo site (conditional based on branch)
+      - name: Build Hugo site
         env:
-          # For maximum backward compatibility with Hugo modules
           HUGO_ENVIRONMENT: production
           HUGO_ENV: production
         run: |
-          hugo \
-            --gc --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
-      - name: Upload artifact
+          if [[ "${{ github.ref_name }}" == "1.2.0" ]]; then
+            hugo \
+              --gc --minify \
+              --baseURL "${{ steps.pages.outputs.base_url }}/preview/"
+          else
+            hugo \
+              --gc --minify \
+              --baseURL "${{ steps.pages.outputs.base_url }}/"
+          fi
+
+      # Step 6: Upload the built site as an artifact
+      - name: Upload site artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./public
 
-  # Deployment job
+  # Deploy job
   deploy:
     environment:
       name: github-pages
@@ -71,6 +88,7 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
+      # Deploy the site to GitHub Pages
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
